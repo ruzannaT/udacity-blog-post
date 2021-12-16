@@ -9,9 +9,7 @@ Given that this topic is quite complex and may contain wide range of questions, 
 
 - Are there seasonal differences in pricing?
 - Do reviews and cancellation policy impact prices?
-- Can information from reviews and house descriptions be useful in predicting pricing groups?
-
-Answers to all above questions resulted in the conclusion to following topic: what features can be used to predict pricing groups. 
+- Can information from reviews and house descriptions be useful in predicting pricing groups? And what features can be used to predict pricing groups. 
 
 ## Data Understanding and Data Preparation
 Data was taken from Kaggle repository and can be found [here](https://www.kaggle.com/airbnb/seattle/data). It contains 3 csv files: calendars, listings and reviews. Prior to starting data analysis, those files required some data cleaning, e.g. deleting records with N/A prices in calendar file (reasoning provided in ipynb file.
