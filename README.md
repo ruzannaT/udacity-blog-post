@@ -37,7 +37,7 @@ Before performing correlation analysis we visualised distribution of prices agai
 ![correlation](https://github.com/ruzannaT/udacity-blog-post/blob/main/correlation.png)
 After running correlation analysis, turned out that review_scores_value does not correlate with pricing, but **reviews_per_month has a significant negative correlation (r=-0.21)**. 
 
-Taking about potential impact of cancelation policies on prices, we came to the conclusion that yes, indeed, policy does have impact on prices.
+Talking about potential impact of cancelation policies on prices, we came to the conclusion that yes, indeed, policy does have impact on prices.
 After performing statistical tests, the chi-squared formally confirmed that the variables in the table are not independent.
 
 ### 3 - What features can be used for price predictions
